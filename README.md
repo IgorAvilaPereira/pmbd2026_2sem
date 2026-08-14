@@ -20,6 +20,9 @@
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./01_introducao_er/setup.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./01_introducao_er/imagens) <br>
 ## [./02_exercicios_er](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./02_exercicios_er) <br>
+[administradora.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./02_exercicios_er/administradora.dia) <br>
+[artigo.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./02_exercicios_er/artigo.dia) <br>
+[escola.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./02_exercicios_er/escola.dia) <br>
 [lista_er.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./02_exercicios_er/lista_er.md) <br>
 ### Sistema Acadêmico
 
