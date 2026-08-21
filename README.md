@@ -67,6 +67,8 @@ Desafios:
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/02_exercicios_er) <br><br>
 &nbsp;
 ## [./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao) <br>
+[bercario.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/bercario.dia) <br>
+[concessionaria.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/concessionaria.dia) <br>
 [entidade-associativa.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/entidade-associativa.md) <br>
 [entidade-fraca.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/entidade-fraca.md) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao) <br><br>
