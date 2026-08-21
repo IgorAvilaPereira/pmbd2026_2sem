@@ -77,3 +77,6 @@ Desafios:
 &nbsp;
 [relacionamentos-er.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/relacionamentos-er.md) <br>
 [imagens](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./03_continuacao_exercicios_entidade_associativa_especializacao_generalizacao/imagens) <br>
+## [./04_formatura](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./04_formatura) <br>
+<br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/04_formatura) <br><br>
+&nbsp;
