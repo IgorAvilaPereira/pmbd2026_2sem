@@ -82,6 +82,7 @@ Desafios:
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/04_formatura) <br><br>
 &nbsp;
 ## [./05_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./05_modelagem_logica) <br>
+[artigo.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/artigo.dia) <br>
 [conversao-entre-modelos-er-e-relacional.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/conversao-entre-modelos-er-e-relacional.md) <br>
 [dicionario-de-dados.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/dicionario-de-dados.md) <br>
 [modelo-relacional.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/modelo-relacional.md) <br>
@@ -89,6 +90,7 @@ Desafios:
 [PERIODICO.png](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/PERIODICO.png) <br>
 [PERIODICO.SQL](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/PERIODICO.SQL) <br>
 [principais-tiposdedados-postgresql.png](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/principais-tiposdedados-postgresql.png) <br>
+[p.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./05_modelagem_logica/p.sql) <br>
 <!--
 Modelagem Lógica (Modelo Relacional)
 
