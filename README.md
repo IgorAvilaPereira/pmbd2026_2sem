@@ -157,3 +157,7 @@ Modelagem Lógica (Modelo Relacional)
 [teste.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./06_modelagem_logica_atributo_composto_derivado_entidade_associativa_entidade_fraca/teste.sql) <br>
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./06_modelagem_logica_atributo_composto_derivado_entidade_associativa_entidade_fraca/exemplos) <br>
 [semana_academica](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./06_modelagem_logica_atributo_composto_derivado_entidade_associativa_entidade_fraca/semana_academica) <br>
+## [./07_modelagem_logica_petshop](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./07_modelagem_logica_petshop) <br>
+[petshop.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.dia) <br>
+[petshop.png](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.png) <br>
+[petshop.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.sql) <br>
