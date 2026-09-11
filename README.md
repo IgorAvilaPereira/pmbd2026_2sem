@@ -161,3 +161,4 @@ Modelagem Lógica (Modelo Relacional)
 [petshop.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.dia) <br>
 [petshop.png](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.png) <br>
 [petshop.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.sql) <br>
+Focar na generalização e entidade fraca e associativa
