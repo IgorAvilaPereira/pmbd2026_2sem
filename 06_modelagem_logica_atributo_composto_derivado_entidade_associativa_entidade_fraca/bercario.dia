@@ -4085,19 +4085,19 @@
     </dia:object>
     <dia:object type="Database - Reference" version="0" id="O77">
       <dia:attribute name="obj_pos">
-        <dia:point val="-9.96417,48.9907"/>
+        <dia:point val="-9.82081,48.9553"/>
       </dia:attribute>
       <dia:attribute name="obj_bb">
-        <dia:rectangle val="-10.0142,46.0769;-8.97726,49.0407"/>
+        <dia:rectangle val="-9.87081,46.3232;-5.09384,49.0053"/>
       </dia:attribute>
       <dia:attribute name="meta">
         <dia:composite type="dict"/>
       </dia:attribute>
       <dia:attribute name="orth_points">
-        <dia:point val="-9.96417,48.9907"/>
-        <dia:point val="-9.96417,47.5588"/>
-        <dia:point val="-9.46726,47.5588"/>
-        <dia:point val="-9.46726,46.1269"/>
+        <dia:point val="-9.82081,48.9553"/>
+        <dia:point val="-9.82081,47.6643"/>
+        <dia:point val="-5.58384,47.6643"/>
+        <dia:point val="-5.58384,46.3732"/>
       </dia:attribute>
       <dia:attribute name="orth_orient">
         <dia:enum val="1"/>
@@ -4139,7 +4139,7 @@
         <dia:real val="0.59999999999999998"/>
       </dia:attribute>
       <dia:connections>
-        <dia:connection handle="0" to="O76" connection="2"/>
+        <dia:connection handle="1" to="O52" connection="9"/>
       </dia:connections>
     </dia:object>
   </dia:layer>
