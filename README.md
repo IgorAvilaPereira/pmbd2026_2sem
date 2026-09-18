@@ -158,10 +158,13 @@ Modelagem Lógica (Modelo Relacional)
 [exemplos](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./06_modelagem_logica_atributo_composto_derivado_entidade_associativa_entidade_fraca/exemplos) <br>
 [semana_academica](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./06_modelagem_logica_atributo_composto_derivado_entidade_associativa_entidade_fraca/semana_academica) <br>
 ## [./07_modelagem_logica_petshop](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./07_modelagem_logica_petshop) <br>
+[Diagram1.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/Diagram1.dia) <br>
 [petshop.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.dia) <br>
 [petshop.png](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.png) <br>
 [petshop.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/petshop.sql) <br>
 Focar na generalização e entidade fraca e associativa
+[script2.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/script2.sql) <br>
+[deezer](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./07_modelagem_logica_petshop/deezer) <br>
 ## [./08_modelagem_logica_especializacao_generalizacao](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./08_modelagem_logica_especializacao_generalizacao) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/08_modelagem_logica_especializacao_generalizacao) <br><br>
 &nbsp;
