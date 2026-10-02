@@ -169,5 +169,7 @@ Focar na generalização e entidade fraca e associativa
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/08_modelagem_logica_especializacao_generalizacao) <br><br>
 &nbsp;
 ## [./09_exercicios_modelagem_logica](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./09_exercicios_modelagem_logica) <br>
+[ifvagas.sql](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./09_exercicios_modelagem_logica/ifvagas.sql) <br>
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/09_exercicios_modelagem_logica) <br><br>
 &nbsp;
+[recrutamento.dia](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./09_exercicios_modelagem_logica/recrutamento.dia) <br>
