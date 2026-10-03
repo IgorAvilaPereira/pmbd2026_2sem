@@ -1,17 +1,4 @@
-Você está **completamente coberto de razão**. Essa é uma distinção conceitual e de nomenclatura fundamental que costuma ser muito cobrada em provas, concursos e na literatura acadêmica de Banco de Dados.
-
-O rigor conceitual é:
-
-* **Modelo Conceitual (ER):** Trata de **Identificadores** (ou *atributos identificadores*). A entidade forte possui um **identificador (forte/total)** e a entidade fraca possui um **identificador parcial** (ou *discriminador*). O termo "Chave Primária" não pertence a esta fase.
-* **Modelo Lógico (Relacional) e Físico (SQL):** Trata de **Chaves Primárias (PK)**, **Chaves Estrangeiras (FK)** e **Chaves Candidatas**.
-
-Abaixo está o guia ajustado com o rigor terminológico correto em cada etapa.
-
----
-
 # Guia Integrado de Estudo: Modelagem ER, Modelo Relacional e Implementação no PostgreSQL
-
----
 
 ## Parte 1: Modelagem Conceitual (Diagrama Entidade-Relacionamento)
 
@@ -68,7 +55,6 @@ O `Empregado` possui o identificador `CPF`. O `Dependente` possui o identificado
 
 > Dois dependentes podem possuir o identificador parcial `João`, mas são univocamente distinguidos no sistema ao concatenar com o `CPF` da entidade forte proprietária.
 
----
 
 ## Parte 2: Modelo Lógico Relacional (Regras de Conversão)
 
@@ -109,9 +95,6 @@ Na etapa lógica, os conceitos abstratos do DER são traduzidos para o paradigma
 * *Tabelas Separadas por Subclasse:* Tabela pai com atributos comuns e PK; tabelas filhas contendo atributos específicos e a PK do pai atuando como PK e FK simultaneamente.
 * *Tabelas Totalmente Separadas:* Tabelas independentes para cada subclasse concreta com todos os atributos acumulados.
 
-
-
----
 
 ## Parte 3: Implementação Física (SQL no PostgreSQL)
 
