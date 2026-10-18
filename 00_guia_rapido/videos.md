@@ -1,22 +1,32 @@
-## Videos
+# Videos
+
+## ER, Modelo Relacional + SQL
 
 * [Introdução DER](https://youtube.com/playlist?list=PLvT8P1q6jMWfdK6v25Sjhq3qwxLIAnvtk)
 
-* [Encontro Síncrono 08/05/25 - Modelagem Conceitual, Modelagem Lógica e Implementação Física](https://www.youtube.com/watch?v=9lpbT6WpkkM)
+* [[pmbd2026_2sem] Revisão Atividade 1 - DER e Modelo Relacional](https://www.youtube.com/watch?v=m7lb9WpbEKs)
 
 * [Introdução a Modelagem Lógica (Modelo Relacional) - 27/03/25](https://www.youtube.com/watch?v=o7b207X2Pf0?)
+  
+* [Encontro Síncrono 08/05/25 - Modelagem Conceitual, Modelagem Lógica e Implementação Física](https://www.youtube.com/watch?v=9lpbT6WpkkM)
+
+* [Encontro Síncrono - Modelagem Lógica (Modelo Relacional) e Modelagem Física (script.sql) - 27/09/23](https://www.youtube.com/watch?v=CzLUSWYwNQM)
+
+* [Modelagem Lógica (Modelo Relacional)](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
+  
+* [[bd2022_1sem] Revisão - Pré-Exame](https://www.youtube.com/watch?v=K903Nd0VNx0)
+
+## Setup
 
 * [Como instalei o PostgreSQL na minha máquina?](https://youtube.com/playlist?list=PLvT8P1q6jMWcT5op9r3RJpaiD4uWAh4zu)
 
-* [Modelagem Lógica (Modelo Relacional)](https://youtube.com/playlist?list=PLvT8P1q6jMWdCXVwsdO3UAPAn743vHccK)
-
-* [[bd2022_1sem] Revisão - Pré-Exame](https://www.youtube.com/watch?v=K903Nd0VNx0)
-
-* [Encontro Síncrono - Modelagem Lógica (Modelo Relacional) e Modelagem Física (script.sql) - 27/09/23](https://www.youtube.com/watch?v=CzLUSWYwNQM)
+## Extras
 
 * [Banco de Dados - DesCOMPlica, Oliba!](https://youtube.com/playlist?list=PLHCyLhqWSaHCItIKsQ37d7-_1CIDlZUtf)
 
 * [Curso Básico de PostgreSQL](https://youtube.com/playlist?list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY)
+
+
 
 <!--
 **Modelagem Conceitual (Diagrama de Entidade Relacionamento):**
