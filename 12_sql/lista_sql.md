@@ -1,7 +1,29 @@
 # Lista de Exercícios SQL — Biblioteca
 
-Considere o banco de dados da biblioteca apresentado em aula.
+Uma universidade deseja informatizar sua biblioteca.
 
+* A biblioteca possui diversos exemplares de livros.
+* Um livro possui ISBN, título, edição, ano de publicação e editora.
+* Um livro pode possuir vários autores.
+* Um autor pode escrever vários livros.
+* Um livro pode possuir vários exemplares físicos.
+* Cada exemplar possui um código patrimonial e uma situação.
+* A biblioteca possui alunos e professores cadastrados como usuários.
+* Cada usuário possui código, nome, CPF e e-mail.
+* Um usuário pode realizar diversos empréstimos.
+* Cada empréstimo está associado a um único exemplar.
+* Para cada empréstimo devem ser registradas data de retirada, data prevista de devolução e data efetiva de devolução.
+* Um exemplar pode ser emprestado diversas vezes ao longo do tempo.
+* Um usuário pode reservar um livro que esteja indisponível.
+* Deve ser mantido o histórico das reservas.
+
+**Desafio:** diferencie corretamente **livro** de **exemplar**, evitando representar cada cópia física como um livro diferente.
+
+---
+
+# Faça o ER
+
+# Faça o Modelo Relacional
 ---
 
 # Exercícios de SELECT
