@@ -1,7 +1,7 @@
 # pmbd2026_2sem <br>
 ## [./00_guia_rapido](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./00_guia_rapido) <br>
 [dicas.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./00_guia_rapido/dicas.md) <br>
-[Guia de Consulta - Modelagem de Banco de Dados.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./00_guia_rapido/Guia de Consulta - Modelagem de Banco de Dados.pdf) <br>
+[guia.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./00_guia_rapido/guia.pdf) <br>
 [setup.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./00_guia_rapido/setup.md) <br>
 [videos.md](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./00_guia_rapido/videos.md) <br>
 ## [./01_introducao_er](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./01_introducao_er) <br>
