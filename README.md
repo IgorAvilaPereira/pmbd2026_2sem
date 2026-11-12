@@ -204,3 +204,5 @@ Focar na generalização e entidade fraca e associativa
 
 <br><br>[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/13_exercicios_sql_jdbc) <br><br>
 &nbsp;
+[sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./13_exercicios_sql_jdbc/sql1.pdf) <br>
+[sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./13_exercicios_sql_jdbc/sql2.pdf) <br>
