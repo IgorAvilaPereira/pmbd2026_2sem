@@ -209,3 +209,5 @@ Focar na generalização e entidade fraca e associativa
 [sql1.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./13_exercicios_sql_jdbc/sql1.pdf) <br>
 [sql2.pdf](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./13_exercicios_sql_jdbc/sql2.pdf) <br>
 [biblioteca](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./13_exercicios_sql_jdbc/biblioteca) <br>
+## [./14_terminar_lista](https://github.com/IgorAvilaPereira/pmbd2026_2sem/tree/main/./14_terminar_lista) <br>
+[*.*](https://github.com/IgorAvilaPereira/pmbd2026_2sem/blob/main/./14_terminar_lista/*.*) <br>
