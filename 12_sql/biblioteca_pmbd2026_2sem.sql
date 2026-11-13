@@ -168,7 +168,7 @@ CREATE TABLE emprestimo (
     data_retirada date default current_date,
     data_previsata_entrega date default current_date + interval '7 days',
     data_entrega date,
-    usuario_id integer references usuario (id),
+    usuario_id integer references usuario (id) on delete cascade,
     exemplar_id integer references exemplar (id),
     multa money
 );
@@ -192,7 +192,7 @@ CREATE TABLE reserva (
     data date default current_date,
     validade date default current_date + interval '7 days',
     livro_id integer references livro (id),
-    usuario_id integer references usuario (id)
+    usuario_id integer references usuario (id) on delete cascade
 );
 
 
@@ -205,7 +205,11 @@ INSERT INTO reserva (data, validade, livro_id, usuario_id) VALUES
 (CURRENT_DATE, CURRENT_DATE + 7, 3, 9),
 (CURRENT_DATE - 1, CURRENT_DATE + 6, 6, 10);
 
-
+--BEGIN;
+--DELETE FROM emprestimo WHERE usuario_id = 1;
+--DELETE FROM reserva WHERE usuario_id = 1;
+--DELETE FROM usuario where id = 1;
+--COMMIT;
 
 
 
